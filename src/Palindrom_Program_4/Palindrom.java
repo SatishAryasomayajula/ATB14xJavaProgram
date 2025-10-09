@@ -5,7 +5,7 @@ public class Palindrom {
 
 
 
-        int num=121;
+        int num=123;
         int ognumber=num;
         int reverse=0;
         while(ognumber>0){
