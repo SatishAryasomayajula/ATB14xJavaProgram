@@ -5,7 +5,7 @@ public class HelloWorld {
 
 
 
-        System.out.println("Hello Satish A");
+       System.out.println("Hello World of Automatic Build Process");
 
     }
 }
