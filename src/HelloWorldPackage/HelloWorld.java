@@ -5,7 +5,7 @@ public class HelloWorld {
 
 
 
-       System.out.println("Hello World of Automatic Build Process12");
+       System.out.println("Hello World This is my first java jenkins build automatically");
 
     }
 }
