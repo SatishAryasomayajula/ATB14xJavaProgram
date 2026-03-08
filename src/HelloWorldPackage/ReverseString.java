@@ -9,7 +9,7 @@ public class ReverseString {
         String s = "Satish";
         String rev ="";
         char ch;
-        System.out.println("Hello auto build1");
+        System.out.println("Hello auto build12");
 
         for ( int i=0; i<s.length(); i++){
 
