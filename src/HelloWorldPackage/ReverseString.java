@@ -20,5 +20,6 @@ public class ReverseString {
 
         }
         System.out.println(rev);
+        System.out.println("Hello auto build");
     }
 }
