@@ -9,7 +9,7 @@ public class ReverseString {
         String s = "Satish";
         String rev ="";
         char ch;
-
+        System.out.println("Hello auto build");
 
         for ( int i=0; i<s.length(); i++){
 
@@ -21,5 +21,5 @@ public class ReverseString {
         }
         System.out.println(rev);
     }
-        System.out.println("Hello auto build1234");
+
 }
